@@ -3,7 +3,7 @@ pipeline {
 
     tools { 
         maven 'my-maven' 
-        jdk 'my-jdk' 
+       // jdk 'my-jdk' 
     }
 
     environment {
