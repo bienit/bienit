@@ -1,4 +1,4 @@
-<mxfile modified="2022-07-01T03:14:35.536Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-qQlSp7eg8Cs_KzbW6XB" version="20.0.4" type="github">
+<mxfile modified="2022-07-01T03:14:57.186Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eD09ATELXLS8QZi9sANH" version="20.0.4" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1065" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="eaCDBnBgNsNgdsd62SQB-2" value="Azure Cloud" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
           <mxGeometry x="290" y="192.78" width="410" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="eaCDBnBgNsNgdsd62SQB-16" value="Azure Cloud" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
+        <mxCell id="eaCDBnBgNsNgdsd62SQB-16" value="" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="130" height="240" as="geometry" />
         </mxCell>
         <mxCell id="eaCDBnBgNsNgdsd62SQB-10" value="Azure VM" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
